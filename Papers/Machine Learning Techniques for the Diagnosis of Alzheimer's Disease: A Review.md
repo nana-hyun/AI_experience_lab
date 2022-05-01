@@ -70,5 +70,33 @@ main approaches : SVM, ANN, DL and ensemble methods
 
 # 3. Support Vector Machine
 
+SVM : very stable and widely used technique for classification and regression problems
 
+use maximum margin principle to classify 
+
+![image](https://user-images.githubusercontent.com/101063108/166136138-887fd7b8-82d9-4a99-83dc-8095780c251f.png)
+
+after solving a convex optimization problem, decision function of SVM
+:
+
+![image](https://user-images.githubusercontent.com/101063108/166136107-350d1ee5-47e2-4290-a9ea-548ad80050c3.png)
+
+w : weight b: bias
+
+
+to classify non-linearly separable data : kernel function ( transform data to higher dimensions)
+
+various variants of SVM : increase performance(generalization ability and training time)
+
+computationally efficient : TWSVM(twin support vector machine) and LSTSVM(least-squares-based twin support vector machine)
+
+## Table 1. Comparison of Research on classification of alzheimer data using SVM
+
+![image](https://user-images.githubusercontent.com/101063108/166136400-7d056ffa-0ef6-472a-a325-80722cc65047.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166136409-6aa49bec-35ef-451d-bb63-afb76f7cf748.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166136421-10d45b4f-c936-40f9-adaf-eeb7f8b8733a.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166136444-a5a46f96-03d7-49e9-9fe0-a65f5722afbd.png)
 

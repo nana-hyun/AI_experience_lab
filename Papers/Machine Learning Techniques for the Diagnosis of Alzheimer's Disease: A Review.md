@@ -100,3 +100,60 @@ computationally efficient : TWSVM(twin support vector machine) and LSTSVM(least-
 
 ![image](https://user-images.githubusercontent.com/101063108/166136444-a5a46f96-03d7-49e9-9fe0-a65f5722afbd.png)
 
+![image](https://user-images.githubusercontent.com/101063108/166137492-a1b9feb4-995a-4c1b-834a-5b8ac7da1758.png)
+
+
+![image](https://user-images.githubusercontent.com/101063108/166137487-71575844-ccfd-4e77-83b6-9333a69e98a3.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166137504-859e4e7a-0c4d-4d06-b320-b412c3da66fa.png)
+
+
+# 4. Artificial Neural Networks, transfer learning, and multi-kernel learning
+
+ANN : Artificial Neural Network - can model highly nonlinear patterns of data
+
+in this section, review the approaches using ANNs, MTL, TL, and MKL.
+
+also review certain feature selection techniques (network connectivity features, multi-view features and other machine learning approaches
+
+## Table 2. Comparison of Recent Studies Using Artificial Neural Network, Transfer Learning, Multi-task Learning, and Connectivity Features
+
+![image](https://user-images.githubusercontent.com/101063108/166137611-862bcef0-3a65-4fd8-8f20-ffe5146688fd.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166137621-4e6c44cd-4e59-402c-9e59-a0d14dacfd9a.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166137634-64a9f6b0-a634-4b3a-b1ca-2958d3f042a6.png)
+
+# 5. Deep learning and ensemble methods
+
+Deep learning(DL) : multi-layered neural network (learning complex structures of data to achieve high degree of abstraction)
+
+* feed forward networks(FFNs)
+      * flows from input to output
+* recurrent networks (RNs)
+      * information from past inputs affecting the present input through feedback connections
+* ensemble methods : include techniques other than SVM, ANN, and DL
+
+![image](https://user-images.githubusercontent.com/101063108/166137936-184ba8f9-fd18-42e9-9cf8-164f1c8c1416.png)
+
+we discuss DL for classification of AD.
+
+include ...
+
+* DNN, SAEs, DBN, CNN
+
+finally we consider the ensemble algorithms
+
+## Table 3. Comparison of REcent Studies Using Deep Learning and Ensemble Methods
+
+![image](https://user-images.githubusercontent.com/101063108/166138030-bf800b76-00f5-41b3-ad02-78b956592d4c.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166138044-ae315734-fd7f-49ae-9f4d-2f58c5e13f93.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166138055-ce0fd1b9-340f-41f8-be68-d1afae9ad02d.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166138066-547bc7b5-dc55-469f-8a8d-cd6d90ba2244.png)
+
+
+# 6. Future Directions
+

@@ -157,3 +157,127 @@ finally we consider the ensemble algorithms
 
 # 6. Future Directions
 
+![image](https://user-images.githubusercontent.com/101063108/166138239-b0158ee3-0d4d-493e-b000-56f6fcf78657.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166138256-75ac29c6-d3a1-44a0-8e21-b28108a8599f.png)
+
+![image](https://user-images.githubusercontent.com/101063108/166138264-cbdfc597-39ab-4c1b-a1f1-69e92306397a.png)
+
+MCI vs AD : important targets for early diagnosis of AD
+
+but, 6(b), 7(b) and 9(b) most - CN vs AD and CN vs MCI
+
+MCI vs AD, MCIc vs MCInc, MCIc vs MCIs : are very less but need to be addressed in future research
+
+-> early detection of dementia caused by Alzheimer's disease
+
+the development of individual specific diagnosis models.
+
+multimodal clinical data can be utilized.
+
+* real world : sample size from some population may not be large for training of model
+* -> develop for small datasets
+
+include noise from various sources
+
+-> noise insentive techniques must be applied for AD classification
+
+## 6.1. SVM
+
+* variants of SVM have been employed 
+* 83% of the papers used standard SVM
+* 3% : TWSVM, only 1 : LSTSVM
+
+one can obsereve that very few variants of SVM have been applied for AD
+
+-> research is needed in application of other variants of SVM for Alzheimer's
+
+some novel variants of SVM also need to be developed
+
+novel kernel functions fo rdiagnosis of AD using SVM.
+
+-> novel models can increase the classification performance of SVM
+
+## 6.2. ANN, TL, and MKL Techniques
+
+Techniques like transfer learning and multikernel learning can be used on multimodal data
+
+* T1-weighted structural MRI : most 7(a)
+* feature extraction from MR images, atlas-based methods : most 7(c)
+* Atlas-based methods : some type of atlas to parcellate the brain regions from different types of features are extracted
+
+In future, other feature selection techniques can be utilized with ANN
+
+* validating - 10-fold cross validation : most 7(d)
+* also use methods like LOOCV, mostly used cross-validation method for SVM-based algorithms 5(b)
+
+* mostly ANNs with back-propagation
+* different learning paradigms used by researchers.
+* Most effort  has been given on selection of better and more informative fetures, More informative features alone are insufficient
+
+-> more effort needs to be given on producing novel classifiers specifically designed
+
+-> more efforts need to be given on approaches like TL and MTK : dealing with the problem of small sample size and high dimensionality.
+
+7(a) : less efforts : utilizing data from multiple modalities 
+
+-> more efforts should be given on developing models that can leverage multimodal
+
+## 6.3. DL and Ensemble Methods
+
+* most papaers, T1-weighted structural MRI 
+* most of the researchers used ROI-based features
+* DL tecchniques based on CNN architectures perform better
+* 10-fold corss-validation is mostly used 5(b)
+
+fig 9(a)..
+
+* 35% DL
+* 10% LR
+* 11.67% RF
+* 6.67% LDA
+* 13.33% ensemble methods
+* 23.33% other
+
+related to model interpretability for routine use by clinicians
+
+most use MRI scans 5(a)
+
+-> more focus should be given on leveraging data from various other modalities
+
+in future, DL models can be trained on large-sized Alzheimer's dataset
+
+
+# 7. Conclusion
+
+using three major machine learning techniques - SVM, ANN, and DL for diagnosis of Alzheimer's
+
+learning techniques like transfer, ensemble, and multi-kernel learning is also discuss
+
+**SVM-based models**
+
+widely used for AD showing its robustness
+
+because of ANN suffers from the drawbacks of local minima, which is not case with SVM
+
+**ANN models**
+
+ANN are more versatile and robust when incremental learning, modelling sequential data and quantizing high dimensional spaces.
+
+->  novel variants of ANN can be used for AD in future
+
+**Deep learning and ensemble learning techniques**
+
+give promising results by modeling highly complex data with high accuracy
+
+abundant usage of SVM : easier to interpret as compared to deep neural networks(black box models)
+
+this problem should be addressed in future by focusing on clinical interpretability of deep learning models.
+
+more work needed in proper integration of feature selection techniques and machne learning model  
+
+----
+
+researchers have given more importance to the feature extraction and not much to the classification - this can be addressed in future research since novel models can give some new inight
+
+more work is required in formulation of ML models that can integrate information from various modalities

@@ -92,13 +92,13 @@ computationally efficient : TWSVM(twin support vector machine) and LSTSVM(least-
 
 ## Table 1. Comparison of Research on classification of alzheimer data using SVM
 
-![image](https://user-images.githubusercontent.com/101063108/166136400-7d056ffa-0ef6-472a-a325-80722cc65047.png)
+![image](https://user-images.githubusercontent.com/101063108/166180001-f01db734-c32b-4d6b-b0b5-6a5124ec854b.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166136409-6aa49bec-35ef-451d-bb63-afb76f7cf748.png)
+![image](https://user-images.githubusercontent.com/101063108/166180046-f0907444-4adb-47be-b198-ac3935f8aec1.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166136421-10d45b4f-c936-40f9-adaf-eeb7f8b8733a.png)
+![image](https://user-images.githubusercontent.com/101063108/166180071-5f1d2624-cb14-4a1c-86a0-cae6158f47d4.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166136444-a5a46f96-03d7-49e9-9fe0-a65f5722afbd.png)
+![image](https://user-images.githubusercontent.com/101063108/166180101-65033cf8-dc33-4fd1-aac5-05a1a84807f7.png)
 
 ![image](https://user-images.githubusercontent.com/101063108/166137492-a1b9feb4-995a-4c1b-834a-5b8ac7da1758.png)
 
@@ -118,11 +118,11 @@ also review certain feature selection techniques (network connectivity features,
 
 ## Table 2. Comparison of Recent Studies Using Artificial Neural Network, Transfer Learning, Multi-task Learning, and Connectivity Features
 
-![image](https://user-images.githubusercontent.com/101063108/166137611-862bcef0-3a65-4fd8-8f20-ffe5146688fd.png)
+![image](https://user-images.githubusercontent.com/101063108/166183693-295ce91e-5e6e-4e1d-8628-9d087b4313f6.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166137621-4e6c44cd-4e59-402c-9e59-a0d14dacfd9a.png)
+![image](https://user-images.githubusercontent.com/101063108/166183721-f4755367-95bf-4038-a628-d304598ec378.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166137634-64a9f6b0-a634-4b3a-b1ca-2958d3f042a6.png)
+![image](https://user-images.githubusercontent.com/101063108/166183756-1d0b7094-67c6-487b-b781-cdff175df7d2.png)
 
 # 5. Deep learning and ensemble methods
 

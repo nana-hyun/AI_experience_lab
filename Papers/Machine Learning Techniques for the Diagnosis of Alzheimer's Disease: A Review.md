@@ -146,13 +146,13 @@ finally we consider the ensemble algorithms
 
 ## Table 3. Comparison of REcent Studies Using Deep Learning and Ensemble Methods
 
-![image](https://user-images.githubusercontent.com/101063108/166138030-bf800b76-00f5-41b3-ad02-78b956592d4c.png)
+![image](https://user-images.githubusercontent.com/101063108/166185151-f660521a-a82e-48f9-a245-4ab61bc1d8f6.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166138044-ae315734-fd7f-49ae-9f4d-2f58c5e13f93.png)
+![image](https://user-images.githubusercontent.com/101063108/166185172-6240b443-3025-4d7e-8003-170a281220d3.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166138055-ce0fd1b9-340f-41f8-be68-d1afae9ad02d.png)
+![image](https://user-images.githubusercontent.com/101063108/166185195-3bb55967-df46-4a21-b071-2f279e1ffa54.png)
 
-![image](https://user-images.githubusercontent.com/101063108/166138066-547bc7b5-dc55-469f-8a8d-cd6d90ba2244.png)
+![image](https://user-images.githubusercontent.com/101063108/166185216-e1291522-b927-4f43-8135-fca03df7cf00.png)
 
 
 # 6. Future Directions
